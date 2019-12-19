@@ -17,7 +17,7 @@ In order to run this container you'll need docker installed, as well as OpenFaaS
 
 ### Usage
 
-You can use this container individually for your own purposes or in conjunction with an OpenFaaS template. To learn more, see this [guide](google.com) written for the eBPF C template that uses this image as a base.
+You can use this container individually for your own purposes or in conjunction with an OpenFaaS template. To learn more, see this [guide](https://github.com/lucasfsduarte/openfaas-c) written for a C template that uses a similar image as a base.
 
 ## Built With
 
