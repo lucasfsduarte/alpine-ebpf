@@ -11,4 +11,8 @@ RUN apk --no-cache add \
     clang \
     clang-dev \
     libc-dev \
-    linux-headers
+    linux-headers \
+    libbpf \
+    libbpf-dev \
+    iproute2
+
